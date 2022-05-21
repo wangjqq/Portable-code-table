@@ -1,0 +1,9 @@
+.\objects\gpx.o: ..\USER\App\Utils\GPX\GPX.cpp
+.\objects\gpx.o: ..\USER\App\Utils\GPX\GPX.h
+.\objects\gpx.o: ..\ArduinoAPI\WString.h
+.\objects\gpx.o: ..\ArduinoAPI\dtostrf.h
+.\objects\gpx.o: F:\keil5MDK\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\gpx.o: F:\keil5MDK\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\gpx.o: F:\keil5MDK\ARM\ARMCC\Bin\..\include\string.h
+.\objects\gpx.o: F:\keil5MDK\ARM\ARMCC\Bin\..\include\ctype.h
+.\objects\gpx.o: ..\ArduinoAPI\itoa.h
